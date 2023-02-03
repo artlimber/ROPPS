@@ -1,2 +1,2 @@
-# ROPPS
-Raspberry Pi / Open Source / Personal / Private / Server
+# drops-OS
+Digital Reality's OPen Source Operating System
