@@ -1,2 +1,2 @@
-# drops-OS
-Digital Reality's OPen Source Operating System
+# sops-OS
+Our new digital reality's Sovereign OPen Source Operating System
